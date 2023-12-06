@@ -2282,7 +2282,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 10px;
   width: 10px;
   display: inline-block;
-  background: rgba(248, 182, 0, 0.2);
+  background: #dcdcdc;
   margin-left: 5px;
   margin-right: 5px;
   -webkit-transition: all 0.3s ease 0s;
@@ -3501,7 +3501,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*  Contact Page Styles
 /* =================================== */
 .contact-page-area {
-  background: #f9f9ff;
+  background: #bcbcbc;
 }
 
 .contact-page-area .map-wrap {
